@@ -15,6 +15,9 @@ I am also passionate about open source projects, project details can be found on
 
 News
 ======
+06/2023: Collaboration with [Prof. Xiaoli Li](https://www.researchgate.net/profile/Xiaoli-Li-27) of Zhejiang University in the field of tea leaf disease detection.
+<br>
+<br>
 04/2023: Successfully applied for the Innovation Project of Guangxi Graduate Education as the project leader.
 <br>
 <br>
